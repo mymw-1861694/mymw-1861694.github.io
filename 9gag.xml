@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>9gag</title>
+  <link>https://www.9gag.com</link>
+  <description>Gag website full of jokes and memes</description>
+  <item>
+    <title>Family Photo</title>
+    <link>https://9gag.com/gag/aVYVQMK/xml_rss.asp</link>
+    <description>Random family photo</description>
+  </item>
+</channel>
+
+</rss> 

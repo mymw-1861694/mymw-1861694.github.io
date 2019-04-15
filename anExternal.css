@@ -1,0 +1,30 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  font-family: "Impact";
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-family: "Impact";
+  text-align: center;
+}
+
+p {
+  color: black;
+  float: right;
+  font-family: "Times New Roman";
+  font-size: 18px;
+}
+
+#borders {
+  border-radius: 25px;
+  border: 2px solid violet;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
